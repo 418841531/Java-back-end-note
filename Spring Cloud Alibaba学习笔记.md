@@ -6,4 +6,6 @@
 
 > **由于篇幅原因，为了不影响阅读在这就展示了整个目录和内容截图 ，这份已经整理成文档的Spring Cloud Alibaba笔记有需要的朋友加合作微信号：xue19992020 即可来免费领取！**
 
+![](https://upload-images.jianshu.io/upload_images/11474088-e47ebc008836280d.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
 ![](https://upload-images.jianshu.io/upload_images/11474088-f9dcf595477c917a.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
